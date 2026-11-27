@@ -1,0 +1,5 @@
+# The shared key and any Wi-Fi password: generated per board, never committed.
+esp32/jarvis_sensors/secrets.h
+__pycache__/
+*.pyc
+.venv/
